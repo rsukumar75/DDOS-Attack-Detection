@@ -13,7 +13,6 @@
 # limitations under the License.
 
 """
-A stupid L3 switch
 For each switch:
 1) Keep a table that maps IP addresses to MAC addresses and switch ports.
    Stock this table using information from ARP and IP packets.
